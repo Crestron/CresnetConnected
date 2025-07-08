@@ -1,6 +1,6 @@
 # CresnetConnected
 
-The Cresnet Connected interface module enables native Cresnet communications integration with thirdy party devcies and provides seamless integration with Crestron control systems. This repository contains the code and examples required by third party manufurtures to successfully integrate. The /Docs directory should be used as an initial reference.
+The Cresnet Connected interface module enables native Cresnet communications integration with thirdy party devcies and provides seamless integration with Crestron control systems. The /Docs directory should be used as an initial reference.
 
 It contains:
 
